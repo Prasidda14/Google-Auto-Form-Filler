@@ -2206,3 +2206,2763 @@ INFLUENCER MARKETING:
   Q5 - Preference for endorsed services: 4
 
 ==================================================
+==================================================
+SUBMISSION #33 — 2026-06-02 13:37:46
+==================================================
+NAME: Bibek Magar
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Others
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #34 — 2026-06-02 13:37:57
+==================================================
+NAME: Dipesh Pandey
+AGE: 18–25
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Business Owner
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #35 — 2026-06-02 13:38:04
+==================================================
+NAME: Niraj Pandey
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Student
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #36 — 2026-06-02 13:38:12
+==================================================
+NAME: Bibek Adhikari
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #37 — 2026-06-02 13:38:19
+==================================================
+NAME: Niraj Tamang
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Business Owner
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #38 — 2026-06-02 13:38:26
+==================================================
+NAME: Shristi Bhandari
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #39 — 2026-06-02 13:38:33
+==================================================
+NAME: Priya Thapa
+AGE: 36–45
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Others
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #40 — 2026-06-02 13:38:42
+==================================================
+NAME: Sabina Rai
+AGE: 18–25
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #41 — 2026-06-02 13:38:49
+==================================================
+NAME: Sunita Magar
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Student
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #42 — 2026-06-02 13:38:57
+==================================================
+NAME: Aarav Shrestha
+AGE: 26–35
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Others
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #43 — 2026-06-02 13:39:04
+==================================================
+NAME: Dipesh Karki
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Secondary
+OCCUPATION: Business Owner
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #44 — 2026-06-02 13:39:11
+==================================================
+NAME: Anjali Shrestha
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #45 — 2026-06-02 13:39:18
+==================================================
+NAME: Kiran Gurung
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Student
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #46 — 2026-06-02 13:39:58
+==================================================
+NAME: Puja Karki
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Employee
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #47 — 2026-06-02 13:40:05
+==================================================
+NAME: Amit Nepal
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Secondary
+OCCUPATION: Student
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #48 — 2026-06-02 13:46:34
+==================================================
+NAME: Suman Shrestha
+AGE: 36–45
+GENDER: Male
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Others
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #49 — 2026-06-02 13:46:45
+==================================================
+NAME: Sabina Sharma
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Business Owner
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #50 — 2026-06-02 13:46:59
+==================================================
+NAME: Puja Malla
+AGE: 36–45
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Business Owner
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #51 — 2026-06-02 13:47:09
+==================================================
+NAME: Sandesh Bhattarai
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Others
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #52 — 2026-06-02 13:47:22
+==================================================
+NAME: Manish Chhetri
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Others
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #53 — 2026-06-02 13:47:32
+==================================================
+NAME: Kiran Shrestha
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Secondary
+OCCUPATION: Employee
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #54 — 2026-06-02 13:47:43
+==================================================
+NAME: Puja Gurung
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #55 — 2026-06-02 13:47:54
+==================================================
+NAME: Bikash Shrestha
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Others
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #56 — 2026-06-02 13:48:05
+==================================================
+NAME: Priya Acharya
+AGE: 18–25
+GENDER: Male
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Others
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #57 — 2026-06-02 13:48:16
+==================================================
+NAME: Suresh Basnet
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Employee
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #58 — 2026-06-02 13:48:27
+==================================================
+NAME: Sita Tamang
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Student
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #59 — 2026-06-02 13:48:37
+==================================================
+NAME: Suman Shrestha
+AGE: 18–25
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Others
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #60 — 2026-06-02 13:48:49
+==================================================
+NAME: Manish Khadka
+AGE: 46 and above
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Employee
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 5
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #61 — 2026-06-02 13:49:01
+==================================================
+NAME: Anjali Lama
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Business Owner
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #62 — 2026-06-02 13:49:15
+==================================================
+NAME: Bibek Adhikari
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Secondary
+OCCUPATION: Business Owner
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 3
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #63 — 2026-06-02 13:49:28
+==================================================
+NAME: Dipesh Acharya
+AGE: 26–35
+GENDER: Female
+EDUCATION LEVEL: Secondary
+OCCUPATION: Student
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #64 — 2026-06-02 13:49:41
+==================================================
+NAME: Meera Bhandari
+AGE: 18–25
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Business Owner
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 4
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 4
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #65 — 2026-06-02 13:49:52
+==================================================
+NAME: Meera Rai
+AGE: 26–35
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Employee
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 4
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 4
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 5
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 3
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #66 — 2026-06-02 13:50:05
+==================================================
+NAME: Maya Karki
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Student
+MONTHLY INCOME: NPR 50,000–100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 5
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 3
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #67 — 2026-06-02 13:50:17
+==================================================
+NAME: Anjali Nepal
+AGE: 26–35
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Student
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 4
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 4
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #68 — 2026-06-02 13:50:28
+==================================================
+NAME: Sunita Rai
+AGE: 18–25
+GENDER: Male
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Others
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 5
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 4
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 5
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 3
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 5
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 3
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #69 — 2026-06-02 13:50:40
+==================================================
+NAME: Suresh Poudel
+AGE: 18–25
+GENDER: Female
+EDUCATION LEVEL: Master's and above
+OCCUPATION: Student
+MONTHLY INCOME: Above NPR 100,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 5
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 4
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 5
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 3
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 4
+  Q2 - Portfolios influence: 4
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 4
+  Q4 - Encourage booking: 4
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 5
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 4
+
+==================================================
+==================================================
+SUBMISSION #70 — 2026-06-02 13:50:52
+==================================================
+NAME: Maya Shrestha
+AGE: 26–35
+GENDER: Male
+EDUCATION LEVEL: Secondary
+OCCUPATION: Others
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Semi-Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 3
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 4
+  Q3 - Preference for online presence: 5
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 5
+  Q5 - Preference for active social media companies: 3
+
+SEO:
+  Q1 - Using Google to find services: 5
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 5
+  Q5 - Comparing via search results: 3
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 5
+  Q2 - Portfolios influence: 3
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 4
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 5
+  Q3 - Paid ads booking influence: 3
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 4
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 3
+  Q2 - Trust in influencer recommendations: 4
+  Q3 - Influencer promotions interest: 3
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 5
+
+==================================================
+==================================================
+SUBMISSION #71 — 2026-06-02 13:51:04
+==================================================
+NAME: Shristi Tamang
+AGE: 36–45
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Student
+MONTHLY INCOME: NPR 20,000–50,000
+LOCATION: Rural
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 3
+  Q5 - Trust in digital marketing companies: 4
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 3
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 5
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 5
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 3
+  Q4 - Social media ads attraction: 3
+  Q5 - Preference for active social media companies: 4
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 5
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 4
+  Q4 - Comparing via online content: 5
+  Q5 - Creative content attraction: 3
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 3
+  Q3 - Paid ads booking influence: 4
+  Q4 - Ad awareness: 5
+  Q5 - Usefulness of online ads: 4
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 4
+  Q2 - Email offers influence: 5
+  Q3 - Personalized emails interest: 3
+  Q4 - Encourage booking: 5
+  Q5 - Builds trust: 4
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 5
+  Q4 - Influencers affect booking: 5
+  Q5 - Preference for endorsed services: 3
+
+==================================================
+==================================================
+SUBMISSION #72 — 2026-06-02 13:51:15
+==================================================
+NAME: Anita Dahal
+AGE: 46 and above
+GENDER: Female
+EDUCATION LEVEL: Bachelor's
+OCCUPATION: Student
+MONTHLY INCOME: Below NPR 20,000
+LOCATION: Urban
+
+--- PAGE 2 RATINGS ---
+CUSTOMER ACQUISITION (Instance 1):
+  Q1 - Digital platform discovery: 5
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 3
+  Q4 - Online promotions booking likelihood: 4
+  Q5 - Trust in digital marketing companies: 5
+
+CUSTOMER ACQUISITION (Instance 2):
+  Q1 - Digital platform discovery: 4
+  Q2 - Digital marketing influence: 3
+  Q3 - Preference for online presence: 4
+  Q4 - Online promotions booking likelihood: 5
+  Q5 - Trust in digital marketing companies: 3
+
+SOCIAL MEDIA MARKETING:
+  Q1 - Discovery via social media: 3
+  Q2 - Influence of photos/videos: 4
+  Q3 - Reviews/comments trust: 5
+  Q4 - Social media ads attraction: 4
+  Q5 - Preference for active social media companies: 5
+
+SEO:
+  Q1 - Using Google to find services: 3
+  Q2 - First-page trustworthiness: 4
+  Q3 - Higher-ranked sites influence: 3
+  Q4 - Likelihood to choose visible services: 3
+  Q5 - Comparing via search results: 4
+
+CONTENT MARKETING:
+  Q1 - Blogs/articles understanding: 3
+  Q2 - Portfolios influence: 5
+  Q3 - Informative content trust: 3
+  Q4 - Comparing via online content: 3
+  Q5 - Creative content attraction: 5
+
+ONLINE ADVERTISING:
+  Q1 - Online ads attention: 3
+  Q2 - Clicking event ads: 4
+  Q3 - Paid ads booking influence: 5
+  Q4 - Ad awareness: 4
+  Q5 - Usefulness of online ads: 5
+
+EMAIL MARKETING:
+  Q1 - Promotional emails inform: 3
+  Q2 - Email offers influence: 3
+  Q3 - Personalized emails interest: 5
+  Q4 - Encourage booking: 3
+  Q5 - Builds trust: 5
+
+INFLUENCER MARKETING:
+  Q1 - Influencers help discover: 4
+  Q2 - Trust in influencer recommendations: 3
+  Q3 - Influencer promotions interest: 4
+  Q4 - Influencers affect booking: 4
+  Q5 - Preference for endorsed services: 3
+
+==================================================
