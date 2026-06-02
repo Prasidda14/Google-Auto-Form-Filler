@@ -1,2 +1,2 @@
 # Google-Auto-Form-Filler
-It fills Google Forms
+A Python and Selenium WebDriver automation script that generates randomized, realistic Nepali/South Asian user profiles (name, age, gender, education, occupation, income, location) and automatically fills a multi-page Google Form — handling Likert scale grids across seven marketing dimensions (Customer Acquisition, Social Media Marketing, SEO, Content Marketing, Online Advertising, Email Marketing, and Influencer Marketing) with scores ranging 3–5 using JavaScript-based click fallbacks and human-like randomized delays. All submitted responses are logged to a structured .txt file, with built-in handling for duplicate form sections, stale DOM elements, and dynamic page rendering via webdriver-manager and Chrome.
