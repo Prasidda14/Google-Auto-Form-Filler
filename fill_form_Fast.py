@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fsater might get flagged as a bot may trigger rate limits, CAPTCHAs, or other anti-abuse protections..
+Faster might get flagged as a bot may trigger rate limits, CAPTCHAs, or other anti-abuse protections..
 Automatically fill a two-page Google Form with randomized realistic data.
 Run: python fill_form.py          (default: 300 submissions)
      python fill_form.py 50       (custom count)
